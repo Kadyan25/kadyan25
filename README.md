@@ -118,6 +118,6 @@ Dockerized Python service for automated technical SEO analysis
 
 Open to full-stack development roles, automation engineering positions, and Founders Office opportunities where I can leverage cross-domain expertise to ship fast and solve undefined problems independently.
 
-**Email:** [your-email@example.com]  
+**Email:** [19bcs1615l@gmail.com]  
 **Portfolio:** [mohit-resume20.netlify.app](https://mohit-resume20.netlify.app/)  
 **LinkedIn:** [linkedin.com/in/mohit-kdyn](https://linkedin.com/in/mohit-kdyn)

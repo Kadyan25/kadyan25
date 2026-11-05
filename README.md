@@ -16,7 +16,7 @@ Most developers do one or the other. I do both.
 
 Production-grade full-stack SaaS, AI-integrated products, 
 and automation pipelines — tested, deployed, and ready for 
-real users. Not prototypes. Not demos.
+real users.
 
 - **Full-stack SaaS** — multi-tenant architecture, OAuth, 
   role-based access, payments (Stripe), CRM sync, Redis caching

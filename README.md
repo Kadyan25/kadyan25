@@ -31,6 +31,20 @@ real users. Not prototypes. Not demos.
 
 ## 🏗️ Shipped & Live
 
+### Exchange Four SEO Engine — Autonomous Multi-Site SEO Agent
+Headless agent that researches topics, writes and publishes articles, improves pages close
+to ranking, audits sites weekly, and measures what happened — running on a schedule across
+multiple real sites from one process (Exchange Four's own site on Supabase, Compass
+Registered Agent on WordPress). Approval policy lives entirely in code, not in the model:
+every action is tier-classified, and anything irreversible — deleting a page, spending
+money, outreach — waits for a signed human approval link before it runs.  
+**Stack:** Python, Claude Agent SDK, Supabase, WordPress REST API, Railway  
+**Tests:** 3,500+ Pytest unit/integration tests (hermetic, no network) plus a
+mutation-testing harness that deliberately breaks each safety guard to confirm a test
+catches it
+
+---
+
 ### [Onelytics](https://onelytics-production.up.railway.app) — Marketing Analytics SaaS
 Multi-tenant SaaS unifying GA4, Google Ads, Meta, TikTok, 
 LinkedIn, Search Console via OAuth. Claude AI summaries, 
